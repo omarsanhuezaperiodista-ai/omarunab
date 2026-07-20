@@ -1,21 +1,5 @@
-# Entorno virtual
-.venv/
-
-# Cache de Python
-__pycache__/
-*.pyc
-
-# Jupyter
+*.csv
+*.zip
 .ipynb_checkpoints/
-
-# Windows
-Thumbs.db
-desktop.ini
-
-# Variables de entorno y secretos
+__pycache__/
 .env
-
-# Datos y modelos pesados
-data/raw/
-*.ckpt
-*.pth
